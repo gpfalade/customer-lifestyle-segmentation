@@ -184,8 +184,6 @@ distributions.
 
 **Gbemileke Falade**
 
-Senior Data Analyst | AI/ML Practitioner | Data Consultant
-
-Lagos, Nigeria
+Senior Data Analyst | Data Scientist | Data Consultant
 
 https://www.linkedin.com/in/gbemileke-falade
