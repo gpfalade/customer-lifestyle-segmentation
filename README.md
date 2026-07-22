@@ -1,5 +1,9 @@
 # Customer Lifestyle Segmentation Model
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
+
 An end-to-end unsupervised machine learning pipeline that 
 classifies retail banking customers into behavioural lifestyle 
 segments using 12 months of transaction history.
